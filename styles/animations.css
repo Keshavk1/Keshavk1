@@ -1,3 +1,4 @@
+/* animations.css */
 @keyframes fadeInUp {
   from {
     transform: translateY(30px);
@@ -9,6 +10,31 @@
   }
 }
 
+@keyframes twinkle {
+  0% { opacity: 0.2; }
+  50% { opacity: 1; }
+  100% { opacity: 0.2; }
+}
+
 .animated {
   animation: fadeInUp 0.8s ease-out;
+}
+
+#stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.star {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: aliceblue;
+  animation: twinkle infinite 1s ease-in-out;
 }

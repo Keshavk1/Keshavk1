@@ -1,7 +1,12 @@
 
 @media (max-width: 768px) {
-  .navbar ul {
-    flex-direction: column;
+  body{
+    text-align: center;
+    width: min-content;
+  }
+  .nav-links{
+    margin-top: 1.5rem;
+    flex-direction: row;
     gap: 1rem;
   }
 
@@ -12,5 +17,9 @@
 
   form {
     width: 90%;
+  }
+  .hero{
+    display: flex;
+    flex-direction: column-reverse;
   }
 }

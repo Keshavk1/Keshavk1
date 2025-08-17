@@ -1,7 +1,8 @@
 body {
   margin: 0;
+  position: relative;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background:linear-gradient(135deg, #0f0524, #2a1060);
+  background:black;
   color: aliceblue;
   scroll-behavior: smooth;
 }
@@ -10,15 +11,6 @@ section {
   padding: 80px 20px;
   text-align: center;
 }
-#particles-js {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  z-index: -1;
-}
-
 a {
   text-decoration: none;
   color: inherit;
@@ -65,7 +57,32 @@ a {
     transform: translateX(0);
   }
 }
-
+.social-icons{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+   margin-top: 30px;
+}
+.social-icon{
+  width: 50px;
+  height: 50Px;
+  border-radius: 50%;
+  background: #7e4afc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0,1);
+}
+.social-icon:hover{
+  transform: translateY(-5px);
+}
+.social-icon svg{
+  width: 20px;
+  height: 20px;
+  fill: white;
+}
 .lefthero h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
@@ -285,6 +302,7 @@ a {
     transform: translateY(0);
   }
 }
+
 
 form {
   display: flex;

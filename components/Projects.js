@@ -8,7 +8,7 @@ export default function Projects() {
       <!-- Tic Tac Toe Card -->
       <div class="game-card">
         <div class="game-image">
-          <img src="" alt="Tic Tac Toe">
+          <img src="./images/Tic-Tae-Toe.png" alt="Tic Tac Toe">
         </div>
         <div class="game-content">
           <h3 class="game-title">🧠 Tic Tac Toe</h3>
@@ -16,14 +16,14 @@ export default function Projects() {
             The classic strategy game where you try to get three in a row. Play against the computer with different difficulty levels. 
             Features score tracking and animated moves.
           </p>
-          <a href="" class="play-btn">Play Now</a>
+          <a href="https://keshavk1.github.io/Mini_games/" class="play-btn">Play Now</a>
         </div>
       </div>
 
       <!-- Sudoku Card -->
       <div class="game-card">
         <div class="game-image">
-          <img src="" alt="Sudoku">
+          <img src="./images/sudoku.png" alt="Sudoku">
         </div>
         <div class="game-content">
           <h3 class="game-title">🔢 Sudoku Solver</h3>
@@ -31,14 +31,14 @@ export default function Projects() {
             Challenge your logic with this number puzzle game. Enter your puzzle and let the solver find the solution, 
             or play interactively with hints and error checking.
           </p>
-          <a href="" class="play-btn">Solve Puzzle</a>
+          <a href="https://keshavk1.github.io/Mini_games/" class="play-btn">Solve Puzzle</a>
         </div>
       </div>
 
       <!-- Rock Paper Scissors Card -->
       <div class="game-card">
         <div class="game-image">
-          <img src="" alt="Rock Paper Scissors">
+          <img src="./images/RPS.png" alt="Rock Paper Scissors">
         </div>
         <div class="game-content">
           <h3 class="game-title">✊✋✌️ Rock Paper Scissors</h3>
@@ -46,7 +46,7 @@ export default function Projects() {
             The timeless hand game with a modern twist. Play against the computer with animated gestures, 
             score tracking, and special "extreme" mode with additional options.
           </p>
-          <a href="" class="play-btn">Challenge AI</a>
+          <a href="https://keshavk1.github.io/Mini_games/" class="play-btn">Challenge AI</a>
         </div>
       </div>
     </div>
