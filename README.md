@@ -1,29 +1,158 @@
-# 💼 Keshav Meena — Portfolio Website
+<h1 align="center">Hi 👋, I'm Keshav Meena</h1>
+<h3 align="center">Backend Developer | Competitive Programmer | B.Tech IT @ NIT Kurukshetra</h3>
 
-Welcome to the source code of my **personal portfolio website** — a modern, animated, and fully responsive site built to represent my skills, journey, and projects as a developer.
+<p align="center">
+🚀 Passionate about scalable backend systems, algorithms, and building impactful products
+</p>
 
-## 🚀 Tech Stack
+---
 
-- 🔧 **HTML5** — Semantic and modular structure
-- 🎨 **CSS3** — Custom styles with smooth animations
-- 🧠 **JavaScript** — Interactive and dynamic elements
-- 📱 **Responsive Design** — Mobile-first layout
-- 📂 **Folder Structure** — Clean component-based architecture
+# 👨‍💻 About Me
 
+- 🎓 B.Tech in **Information Technology** at **NIT Kurukshetra**
+- 🧠 Competitive Programmer with strong **DSA & Algorithms background**
+- 🏆 **LeetCode Guardian** (Top ~1%)
+- ⭐ **Codeforces Specialist**
+- 💻 Interested in **Backend Engineering, System Design & Scalable Systems**
+- 🚀 Currently learning **Advanced Web Development & System Design**
 
-## ✨ Features
+---
 
-- ⚡ Animated transitions and hover effects
-- 🌐 Fully responsive layout for all screen sizes
-- 🧩 Modular and scalable code structure
-- 🎯 Highlighted skills, achievements, and GitHub projects
-- 🧠 Smooth user experience and minimal design
+# 🛠 Tech Stack
 
+### Languages
+C++ • Python • Java • JavaScript
 
-## 🛠️ Run Locally
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication • Stripe Payments
 
-Clone the project:
+### Frontend
+React • HTML • CSS
 
-```bash
-git clone https://github.com/KeshavMeena7/portfolio-website.git
-cd portfolio-website
+### Databases
+MongoDB • Mongoose
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+---
+
+# 🧠 Competitive Programming
+
+🔥 **LeetCode**
+- Guardian (Top 1%)
+- 750+ Problems Solved
+- Strong in Graphs, DP, Trees, Segment Trees
+
+⚡ **Codeforces**
+- Specialist
+- Peak Rating ~1480+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Keshavk1&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavk1&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Careers NITKKR – Recruitment Platform Backend
+
+Backend system for faculty recruitment platform.
+
+**Tech Stack**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,react,mongodb,git,github" />
+</p>
+Node.js • Express • MongoDB • Stripe • JWT
+
+**Key Features**
+
+- Secure JWT Authentication
+- Stripe payment integration
+- RESTful API architecture
+- Admin / Reviewer role management
+- Application processing workflow
+
+---
+
+## 💧 PureDrop – IoT Water Quality Monitoring System
+
+Machine learning system predicting water quality using sensor data.
+
+**Tech**
+
+Python • Random Forest • ML Pipeline
+
+**Highlights**
+
+- Feature engineering & data preprocessing
+- ML classification model
+- IoT integration for real-time monitoring
+
+---
+
+## 🎮 Tic Tac Toe AI
+
+Game AI implemented using **Minimax Algorithm**.
+
+**Highlights**
+
+- Optimal decision-making AI
+- Efficient game-state evaluation
+- Score tracking system
+
+---
+
+## 🧩 Sudoku Solver
+
+Efficient Sudoku solver built using **Backtracking Algorithm**
+
+**Features**
+
+- Recursive solving algorithm
+- Constraint validation
+- Optimized search space
+
+---
+
+# 🏆 Achievements
+
+- 🥇 **LeetCode Guardian**
+- ⭐ **Codeforces Specialist**
+- 🔥 Solved **750+ DSA problems**
+- 🧠 Strong knowledge of **Algorithms & Data Structures**
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+LinkedIn  
+https://linkedin.com/in/keshav-meena-b25812325
+
+GitHub  
+https://github.com/Keshavk1
+
+Email  
+mrkeshavms@email.com
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy solving complex algorithmic problems and building scalable systems.
+
+If you like my work, feel free to ⭐ star my repositories!
+![](https://komarev.com/ghpvc/?username=Keshavk1)
